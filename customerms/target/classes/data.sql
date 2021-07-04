@@ -1,0 +1,2 @@
+insert into CUSTOMER_ENTITY values('CUSTOMER101','GUNTUR','1999-02-02','ABCDE1234A','gayathri','Gayathri Prabha')
+insert into CUSTOMER_ENTITY values('CUSTOMER102','GUNTUR','1999-02-02','ABCDE1234C','prabha','Prabha')
